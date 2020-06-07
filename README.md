@@ -13,7 +13,9 @@ I would like some help understanding the script however.
 1. In line 18 what does the 'i' stand for ? / What does it do ? Can I re-name it something else ?
 
 
+
 2. In line 21 what is 'a' ? Are we refering to the first 'a' in the html code that being '><a' or the second one '</a></li>' ?
+
 
 
 3. In line 22 and 23 what is the purpose of [position-1] ? What does the -1 do ?
