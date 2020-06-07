@@ -14,7 +14,7 @@ I would like some help understanding the script however.
 
 
 
-2. In line 21 what is 'a' ? Are we refering to the first 'a' in the html code that being '><a' or the second one '</a></li>' ?
+2. In line 21 what is 'a' ? Are we refering to the first 'a' in the html code that being '><a' or the second one'</a></li>' 
 
 
 
