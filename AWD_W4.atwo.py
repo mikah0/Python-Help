@@ -15,7 +15,7 @@ count = int(input("Enter count: "))
 #promt user to enter url(link), the position where to extract the url and
 #the number of times to repeat this cycle ("count").
 
-for i in range(count): #range function = range(start, stop, step)
+for i in range(count): 
     html = urllib.request.urlopen(url).read()
     soup = BeautifulSoup(html)
     tags = soup('a')
